@@ -58,6 +58,7 @@ func (ls *LogShipper) Close() error {
 	return nil
 }
 
+// 
 func (ls *LogShipper) ShipLogsBatch(logs []string) (int, error) {
 	if logs == nil {
 		var err error
