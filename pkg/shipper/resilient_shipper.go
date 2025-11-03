@@ -270,12 +270,12 @@ func (rs *ResilientLogShipper) ShipLogsContinuously(stopChan <-chan struct{}) er
 				if err != nil {
 					fmt.Printf("error shipping log: %v\n", err)
 
-					if rs.buffer.Len() < rs.bufferSize{
+					if rs.buffer.Len() < rs.bufferSize {
 						rs.buffer.PushBack(log)
 					}
 
 					rs.Connect()
-				} 
+				}
 			} else {
 				if rs.buffer.Len() < rs.bufferSize {
 					rs.buffer.PushBack(log)

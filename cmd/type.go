@@ -58,4 +58,40 @@ func runEnhancedShipper(logReader *reader.LogReader, stopChan chan struct{}) err
 		heartbeatInterval,
 	)
 	defer s.Close()
+
+	if metricsInt > 0 && !batch {
+		metricsTicker := time.NewTicker(time.Duration(metricsInt) * time.Second)
+		defer metricsTicker.Stop()
+
+		go func() {
+			for {
+				select {
+				case <-stopChan:
+					return
+				case <-metricsTicker.C:
+					s.PrintMetrics()
+				}
+			}
+		}()
+	}
+
+	if batch {
+		count, err := s.ShipLogsBatch(nil)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Shipped %d logs in batch mode\n", count)
+		s.PrintMetrics()
+		return nil
+	}
+
+	compressionStatus := "Enabled"
+	if !compress {
+		compressionStatus = "Disabled"
+	}
+
+	fmt.Printf("Starting continuous log shipping (enhanced mode) from %s to %s:%d\n", logFile, serverHost, serverPort)
+	fmt.Printf("Compression: %s, Batch Size: %d\n", compressionStatus, batchSize)
+	fmt.Println("Press Ctrl+C to stop")
+	return s.ShipLogsContinuously(stopChan)
 }

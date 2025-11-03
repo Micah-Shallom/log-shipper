@@ -58,7 +58,6 @@ func (ls *LogShipper) Close() error {
 	return nil
 }
 
-// 
 func (ls *LogShipper) ShipLogsBatch(logs []string) (int, error) {
 	if logs == nil {
 		var err error
@@ -138,11 +137,11 @@ func (ls *LogShipper) ShipLogsContinuously(stopChan <-chan struct{}) error {
 				_, err := ls.conn.Write([]byte(log))
 				if err == nil {
 					sent = true
-				}else {
+				} else {
 					fmt.Printf("error shipping log: %v\n", err)
 					retryCount++
 
-					if ls.Connect(){
+					if ls.Connect() {
 						continue
 					} else {
 						backoffTime := time.Duration(math.Pow(2, float64(retryCount))) * time.Second

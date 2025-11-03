@@ -48,6 +48,7 @@ func (lr *LogReader) ReadBatch() ([]string, error) {
 		return nil, fmt.Errorf("error reading log file: %w", err)
 	}
 
+	fmt.Printf("read %d logs from file %s", len(lines), lr.logFilePath)
 	return lines, nil
 }
 
@@ -72,16 +73,18 @@ func (lr *LogReader) ReadIncremental(logChan chan<- string, stopChan <-chan stru
 		}
 	}
 
+
 	scanner := bufio.NewScanner(file)
 	for {
-		select{
-		case <- stopChan:
+		select {
+		case <-stopChan:
 			return nil
 		default:
-			if scanner.Scan(){
+			if scanner.Scan() {
 				line := scanner.Text()
+				fmt.Println("log sent to channel")
 				logChan <- line
-				lr.lastPosition, _ = file.Seek(0, 1)// get current position
+				lr.lastPosition, _ = file.Seek(0, 1) // get current position
 			} else {
 				if err := scanner.Err(); err != nil {
 					return fmt.Errorf("error reading log file: %w", err)

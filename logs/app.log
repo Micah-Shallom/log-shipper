@@ -1,0 +1,1000 @@
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /search HTTP/1.1" 200 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-4042","duration":282,"message":"User logged in successfully","request_id":"req-1761734623-4046","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"WARNING","user_id":"user-7896","duration":129,"message":"User logged in successfully","request_id":"req-1761734623-4813","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-5001","duration":154,"message":"User logged in successfully","request_id":"req-1761734623-6886","service":"notification-service"}
+2025/10/29 10:43:43 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:43Z] DEBUG [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-7455","duration":367,"message":"User logged in successfully","request_id":"req-1761734623-1558","service":"notification-service"}
+2025/10/29 10:43:43 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-7217","duration":86,"message":"User logged in successfully","request_id":"req-1761734623-5694","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:43 +0000] "PATCH /api/v1 HTTP/1.1" 304 15360 "-" "curl/7.68.0"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "PATCH /settings HTTP/1.1" 403 500 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9528","duration":156,"message":"User logged in successfully","request_id":"req-1761734623-8699","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"DEBUG","user_id":"user-1122","duration":47,"message":"User logged in successfully","request_id":"req-1761734623-9287","service":"user-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "PUT /health HTTP/2.0" 403 4096 "-" "curl/7.68.0"
+1.1.1.1 - - [29/Oct/2025:10:43:43 +0000] "POST /search HTTP/1.1" 200 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "GET /users HTTP/1.1" 404 20480 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9852","duration":242,"message":"User logged in successfully","request_id":"req-1761734623-5171","service":"notification-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:43 +0000] "GET /health HTTP/1.1" 503 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:43 [info] background: User logged in successfully
+2025/10/29 10:43:43 [info] main: User logged in successfully
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+[2025-10-29T10:43:43Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:43 [info] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "PATCH /search HTTP/1.1" 200 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "GET /api/v1 HTTP/2.0" 404 1024 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:43 +0000] "PATCH /auth HTTP/2.0" 200 2048 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-5855","duration":59,"message":"User logged in successfully","request_id":"req-1761734623-3230","service":"payment-service"}
+2025/10/29 10:43:43 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-4238","duration":184,"message":"User logged in successfully","request_id":"req-1761734623-1552","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9486","duration":253,"message":"User logged in successfully","request_id":"req-1761734623-5387","service":"inventory-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /auth HTTP/1.1" 304 1024 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /health HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:43Z] INFO [notification-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:44 +0000] "PUT /users HTTP/1.1" 400 8192 "-" "curl/7.68.0"
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:44 +0000] "DELETE /auth HTTP/2.0" 200 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"WARNING","user_id":"user-3114","duration":184,"message":"User logged in successfully","request_id":"req-1761734624-3933","service":"notification-service"}
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"ERROR","user_id":"user-4120","duration":22,"message":"User logged in successfully","request_id":"req-1761734624-7438","service":"payment-service"}
+2025/10/29 10:43:44 [info] worker3: User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:44Z] DEBUG [inventory-service] User logged in successfully
+[2025-10-29T10:43:44Z] WARNING [notification-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "PUT /api/v1 HTTP/1.1" 403 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"ERROR","user_id":"user-3868","duration":69,"message":"User logged in successfully","request_id":"req-1761734624-1224","service":"notification-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:44 +0000] "PUT /orders HTTP/1.1" 304 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6559","duration":328,"message":"User logged in successfully","request_id":"req-1761734624-3262","service":"notification-service"}
+[2025-10-29T10:43:44Z] WARNING [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-9935","duration":375,"message":"User logged in successfully","request_id":"req-1761734624-5145","service":"inventory-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "DELETE /orders HTTP/1.1" 503 8192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:44Z] INFO [notification-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /api/v1 HTTP/2.0" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /api/v1 HTTP/1.1" 201 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-1980","duration":493,"message":"User logged in successfully","request_id":"req-1761734624-3348","service":"user-service"}
+2025/10/29 10:43:44 [info] worker1: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "DELETE /users HTTP/1.1" 500 500 "-" "curl/7.68.0"
+2025/10/29 10:43:44 [warn] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"WARNING","user_id":"user-5937","duration":216,"message":"User logged in successfully","request_id":"req-1761734624-5144","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-3562","duration":312,"message":"User logged in successfully","request_id":"req-1761734624-3312","service":"payment-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:44 +0000] "GET /dashboard HTTP/2.0" 500 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6814","duration":10,"message":"User logged in successfully","request_id":"req-1761734624-7198","service":"user-service"}
+2025/10/29 10:43:44 [info] worker3: User logged in successfully
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /dashboard HTTP/2.0" 403 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:44 [info] worker1: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [payment-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "PUT /search HTTP/2.0" 200 15360 "-" "curl/7.68.0"
+[2025-10-29T10:43:44Z] ERROR [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6922","duration":188,"message":"User logged in successfully","request_id":"req-1761734624-9425","service":"notification-service"}
+[2025-10-29T10:43:44Z] INFO [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "GET /auth HTTP/1.1" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "GET /health HTTP/2.0" 403 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "GET /settings HTTP/2.0" 204 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-8121","duration":382,"message":"User logged in successfully","request_id":"req-1761734625-5340","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"WARNING","user_id":"user-8270","duration":23,"message":"User logged in successfully","request_id":"req-1761734625-8114","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-2253","duration":350,"message":"User logged in successfully","request_id":"req-1761734625-6293","service":"payment-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /orders HTTP/2.0" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-9760","duration":350,"message":"User logged in successfully","request_id":"req-1761734625-4112","service":"notification-service"}
+2025/10/29 10:43:45 [info] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/2.0" 200 10240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:45 [error] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-6097","duration":421,"message":"User logged in successfully","request_id":"req-1761734625-1170","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-4876","duration":68,"message":"User logged in successfully","request_id":"req-1761734625-3222","service":"inventory-service"}
+[2025-10-29T10:43:45Z] WARNING [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /dashboard HTTP/1.1" 204 20480 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+172.16.254.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /users HTTP/2.0" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "PATCH /orders HTTP/1.1" 404 1024 "-" "curl/7.68.0"
+2025/10/29 10:43:45 [info] worker2: User logged in successfully
+[2025-10-29T10:43:45Z] INFO [notification-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "PATCH /health HTTP/1.1" 503 500 "-" "PostmanRuntime/7.28.4"
+10.0.0.2 - - [29/Oct/2025:10:43:45 +0000] "PATCH /dashboard HTTP/1.1" 404 250 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "DELETE /dashboard HTTP/1.1" 201 4096 "-" "curl/7.68.0"
+2025/10/29 10:43:45 [warn] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-3850","duration":412,"message":"User logged in successfully","request_id":"req-1761734625-5722","service":"notification-service"}
+[2025-10-29T10:43:45Z] INFO [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PUT /products HTTP/2.0" 503 20480 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"ERROR","user_id":"user-5053","duration":230,"message":"User logged in successfully","request_id":"req-1761734625-8715","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-8147","duration":261,"message":"User logged in successfully","request_id":"req-1761734625-5818","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-3819","duration":471,"message":"User logged in successfully","request_id":"req-1761734625-6026","service":"user-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:45 +0000] "POST /api/v1 HTTP/2.0" 204 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+8.8.8.8 - - [29/Oct/2025:10:43:45 +0000] "DELETE /products HTTP/2.0" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:45 [info] main: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "GET /auth HTTP/1.1" 304 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:45 [info] worker3: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "DELETE /search HTTP/1.1" 200 10240 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-5971","duration":479,"message":"User logged in successfully","request_id":"req-1761734625-5980","service":"user-service"}
+[2025-10-29T10:43:45Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:45 [warn] main: User logged in successfully
+2025/10/29 10:43:45 [info] background: User logged in successfully
+2025/10/29 10:43:45 [info] worker1: User logged in successfully
+[2025-10-29T10:43:45Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:45Z] INFO [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 502 15360 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:45 +0000] "GET /api/v1 HTTP/2.0" 401 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "GET /dashboard HTTP/1.1" 304 1024 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:45Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"DEBUG","user_id":"user-2341","duration":341,"message":"User logged in successfully","request_id":"req-1761734625-4876","service":"inventory-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /settings HTTP/1.1" 304 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+172.16.254.1 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 404 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-6390","duration":490,"message":"User logged in successfully","request_id":"req-1761734625-7761","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PATCH /users HTTP/2.0" 204 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:46 [info] background: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:46 +0000] "PATCH /orders HTTP/1.1" 404 10240 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:46 +0000] "PUT /search HTTP/1.1" 502 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:46 +0000] "DELETE /search HTTP/2.0" 400 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+8.8.8.8 - - [29/Oct/2025:10:43:46 +0000] "POST /dashboard HTTP/1.1" 500 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "POST /dashboard HTTP/2.0" 301 20480 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"INFO","user_id":"user-3420","duration":144,"message":"User logged in successfully","request_id":"req-1761734626-5849","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PATCH /auth HTTP/2.0" 503 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PUT /products HTTP/1.1" 201 20480 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:46Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"WARNING","user_id":"user-3610","duration":319,"message":"User logged in successfully","request_id":"req-1761734626-5878","service":"inventory-service"}
+2025/10/29 10:43:46 [info] worker3: User logged in successfully
+2025/10/29 10:43:46 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:46Z] INFO [notification-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "GET /auth HTTP/2.0" 301 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:46Z] INFO [user-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:46 +0000] "PATCH /auth HTTP/1.1" 201 4096 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"INFO","user_id":"user-5107","duration":271,"message":"User logged in successfully","request_id":"req-1761734626-2907","service":"user-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:46 +0000] "PATCH /products HTTP/1.1" 404 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:46 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"DEBUG","user_id":"user-2515","duration":338,"message":"User logged in successfully","request_id":"req-1761734626-7127","service":"inventory-service"}
+2025/10/29 10:43:47 [info] main: User logged in successfully
+2025/10/29 10:43:47 [info] main: User logged in successfully
+[2025-10-29T10:43:47Z] INFO [notification-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "POST /search HTTP/1.1" 502 8192 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:47Z] ERROR [payment-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "DELETE /auth HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:47 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-4268","duration":421,"message":"User logged in successfully","request_id":"req-1761734627-7807","service":"user-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:47 +0000] "PUT /orders HTTP/2.0" 403 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:47 +0000] "PATCH /products HTTP/1.1" 200 1024 "-" "curl/7.68.0"
+2025/10/29 10:43:47 [info] main: User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "PATCH /products HTTP/1.1" 200 250 "-" "PostmanRuntime/7.28.4"
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "PUT /api/v1 HTTP/1.1" 404 2048 "-" "curl/7.68.0"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "GET /auth HTTP/1.1" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-6962","duration":336,"message":"User logged in successfully","request_id":"req-1761734627-6828","service":"user-service"}
+[2025-10-29T10:43:47Z] WARNING [user-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:47 +0000] "PUT /health HTTP/1.1" 304 2048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "GET /orders HTTP/1.1" 200 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:47Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-7595","duration":284,"message":"User logged in successfully","request_id":"req-1761734627-2633","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"WARNING","user_id":"user-5342","duration":15,"message":"User logged in successfully","request_id":"req-1761734627-6308","service":"payment-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:47 +0000] "GET /orders HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:47Z] INFO [user-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "DELETE /users HTTP/2.0" 200 8192 "-" "curl/7.68.0"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "POST /users HTTP/2.0" 503 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:47 [warn] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-5710","duration":189,"message":"User logged in successfully","request_id":"req-1761734627-9074","service":"payment-service"}
+2025/10/29 10:43:47 [info] worker3: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "DELETE /users HTTP/2.0" 404 15360 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-4806","duration":43,"message":"User logged in successfully","request_id":"req-1761734627-7986","service":"notification-service"}
+2025/10/29 10:43:47 [info] main: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "POST /settings HTTP/2.0" 503 100 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-3553","duration":6,"message":"User logged in successfully","request_id":"req-1761734627-8197","service":"payment-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:47 +0000] "POST /users HTTP/2.0" 404 4096 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "PUT /auth HTTP/1.1" 201 15360 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-6333","duration":57,"message":"User logged in successfully","request_id":"req-1761734627-1032","service":"notification-service"}
+[2025-10-29T10:43:47Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:48 +0000] "DELETE /api/v1 HTTP/2.0" 200 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:48Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"ERROR","user_id":"user-8143","duration":145,"message":"User logged in successfully","request_id":"req-1761734628-3145","service":"user-service"}
+[2025-10-29T10:43:48Z] ERROR [payment-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [payment-service] User logged in successfully
+2025/10/29 10:43:48 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-7816","duration":405,"message":"User logged in successfully","request_id":"req-1761734628-2799","service":"user-service"}
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-2747","duration":85,"message":"User logged in successfully","request_id":"req-1761734628-3605","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"WARNING","user_id":"user-6945","duration":58,"message":"User logged in successfully","request_id":"req-1761734628-7353","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-4272","duration":23,"message":"User logged in successfully","request_id":"req-1761734628-5464","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-5169","duration":10,"message":"User logged in successfully","request_id":"req-1761734628-3808","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"DEBUG","user_id":"user-6252","duration":26,"message":"User logged in successfully","request_id":"req-1761734628-5356","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-2259","duration":64,"message":"User logged in successfully","request_id":"req-1761734628-4753","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [debug] worker2: User logged in successfully
+[2025-10-29T10:43:48Z] ERROR [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-5138","duration":323,"message":"User logged in successfully","request_id":"req-1761734628-4551","service":"user-service"}
+2025/10/29 10:43:48 [warn] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:48 +0000] "GET /users HTTP/1.1" 204 20480 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-6294","duration":272,"message":"User logged in successfully","request_id":"req-1761734628-6003","service":"inventory-service"}
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [warn] worker2: User logged in successfully
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] main: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [payment-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"ERROR","user_id":"user-1403","duration":448,"message":"User logged in successfully","request_id":"req-1761734628-8486","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-8022","duration":31,"message":"User logged in successfully","request_id":"req-1761734628-3066","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:48 +0000] "PUT /products HTTP/1.1" 200 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] background: User logged in successfully
+2025/10/29 10:43:48 [warn] background: User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:48 +0000] "PUT /health HTTP/2.0" 500 1024 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+[2025-10-29T10:43:49Z] INFO [payment-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:49 +0000] "GET /api/v1 HTTP/1.1" 201 10240 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-5439","duration":268,"message":"User logged in successfully","request_id":"req-1761734629-4697","service":"inventory-service"}
+2025/10/29 10:43:49 [warn] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "PUT /users HTTP/1.1" 201 100 "-" "PostmanRuntime/7.28.4"
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "GET /orders HTTP/2.0" 403 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"WARNING","user_id":"user-1372","duration":236,"message":"User logged in successfully","request_id":"req-1761734629-3164","service":"user-service"}
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+2025/10/29 10:43:49 [warn] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-6941","duration":384,"message":"User logged in successfully","request_id":"req-1761734629-2768","service":"payment-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:49 +0000] "POST /products HTTP/2.0" 201 100 "-" "curl/7.68.0"
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "PUT /products HTTP/1.1" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-2202","duration":264,"message":"User logged in successfully","request_id":"req-1761734629-2737","service":"payment-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:49 +0000] "DELETE /health HTTP/2.0" 401 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "POST /products HTTP/1.1" 502 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:49 +0000] "PATCH /health HTTP/1.1" 503 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] main: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:49 +0000] "PUT /api/v1 HTTP/2.0" 500 500 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+2025/10/29 10:43:49 [warn] worker1: User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+[2025-10-29T10:43:49Z] DEBUG [inventory-service] User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-8619","duration":373,"message":"User logged in successfully","request_id":"req-1761734629-8488","service":"inventory-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "PUT /products HTTP/1.1" 403 20480 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] WARNING [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-5398","duration":99,"message":"User logged in successfully","request_id":"req-1761734629-6164","service":"notification-service"}
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:49 [info] scheduler: User logged in successfully
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "POST /users HTTP/1.1" 200 10240 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] WARNING [payment-service] User logged in successfully
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+[2025-10-29T10:43:49Z] DEBUG [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-4099","duration":312,"message":"User logged in successfully","request_id":"req-1761734629-5365","service":"payment-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:49 +0000] "GET /orders HTTP/2.0" 301 15360 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:49Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"WARNING","user_id":"user-2958","duration":456,"message":"User logged in successfully","request_id":"req-1761734629-8489","service":"notification-service"}
+2025/10/29 10:43:49 [info] scheduler: User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-1813","duration":440,"message":"User logged in successfully","request_id":"req-1761734630-8081","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:50 +0000] "PUT /settings HTTP/1.1" 301 20480 "-" "PostmanRuntime/7.28.4"
+172.16.254.1 - - [29/Oct/2025:10:43:50 +0000] "GET /orders HTTP/2.0" 403 4096 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:50Z] INFO [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-2919","duration":259,"message":"User logged in successfully","request_id":"req-1761734630-5087","service":"payment-service"}
+2025/10/29 10:43:50 [warn] scheduler: User logged in successfully
+2025/10/29 10:43:50 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-5193","duration":367,"message":"User logged in successfully","request_id":"req-1761734630-8768","service":"user-service"}
+2025/10/29 10:43:50 [warn] main: User logged in successfully
+2025/10/29 10:43:50 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"WARNING","user_id":"user-9279","duration":246,"message":"User logged in successfully","request_id":"req-1761734630-6727","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-5257","duration":379,"message":"User logged in successfully","request_id":"req-1761734630-9814","service":"user-service"}
+2025/10/29 10:43:50 [info] main: User logged in successfully
+[2025-10-29T10:43:50Z] INFO [payment-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:50 +0000] "PATCH /users HTTP/1.1" 301 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:50 +0000] "GET /health HTTP/2.0" 200 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:50 [debug] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-2974","duration":362,"message":"User logged in successfully","request_id":"req-1761734630-4931","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-3545","duration":47,"message":"User logged in successfully","request_id":"req-1761734630-6217","service":"inventory-service"}
+2025/10/29 10:43:50 [info] background: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:50 +0000] "POST /search HTTP/2.0" 200 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:50Z] INFO [user-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:51 +0000] "GET /users HTTP/1.1" 200 8192 "-" "curl/7.68.0"
+[2025-10-29T10:43:51Z] WARNING [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:51 +0000] "DELETE /api/v1 HTTP/2.0" 304 4096 "-" "curl/7.68.0"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] WARNING [user-service] User logged in successfully
+2025/10/29 10:43:51 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-4761","duration":63,"message":"User logged in successfully","request_id":"req-1761734631-5604","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6385","duration":435,"message":"User logged in successfully","request_id":"req-1761734631-3046","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-1442","duration":165,"message":"User logged in successfully","request_id":"req-1761734631-8926","service":"inventory-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /auth HTTP/2.0" 400 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6450","duration":361,"message":"User logged in successfully","request_id":"req-1761734631-8106","service":"notification-service"}
+[2025-10-29T10:43:51Z] INFO [payment-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:51 +0000] "POST /dashboard HTTP/2.0" 400 2048 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /users HTTP/1.1" 200 8192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-1863","duration":283,"message":"User logged in successfully","request_id":"req-1761734631-2024","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-9366","duration":173,"message":"User logged in successfully","request_id":"req-1761734631-6546","service":"inventory-service"}
+2025/10/29 10:43:51 [warn] background: User logged in successfully
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] INFO [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:51 +0000] "PATCH /search HTTP/2.0" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] ERROR [notification-service] User logged in successfully
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /settings HTTP/1.1" 200 1024 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-6106","duration":10,"message":"User logged in successfully","request_id":"req-1761734631-5050","service":"inventory-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+2025/10/29 10:43:51 [error] worker1: User logged in successfully
+[2025-10-29T10:43:51Z] WARNING [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-8249","duration":226,"message":"User logged in successfully","request_id":"req-1761734631-4354","service":"payment-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /api/v1 HTTP/1.1" 400 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-3401","duration":71,"message":"User logged in successfully","request_id":"req-1761734631-4406","service":"payment-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "GET /auth HTTP/2.0" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"ERROR","user_id":"user-8475","duration":46,"message":"User logged in successfully","request_id":"req-1761734631-4214","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-9328","duration":278,"message":"User logged in successfully","request_id":"req-1761734631-8127","service":"user-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-3996","duration":24,"message":"User logged in successfully","request_id":"req-1761734631-1920","service":"inventory-service"}
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "PATCH /search HTTP/2.0" 502 250 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-7213","duration":337,"message":"User logged in successfully","request_id":"req-1761734631-2312","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:51 +0000] "PATCH /orders HTTP/2.0" 301 4096 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6232","duration":208,"message":"User logged in successfully","request_id":"req-1761734631-6938","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "PUT /users HTTP/1.1" 301 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-3413","duration":91,"message":"User logged in successfully","request_id":"req-1761734631-5240","service":"notification-service"}
+[2025-10-29T10:43:51Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:51 [warn] worker1: User logged in successfully
+2025/10/29 10:43:51 [warn] worker3: User logged in successfully
+[2025-10-29T10:43:51Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-2290","duration":305,"message":"User logged in successfully","request_id":"req-1761734632-9047","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"WARNING","user_id":"user-6828","duration":63,"message":"User logged in successfully","request_id":"req-1761734632-8130","service":"inventory-service"}
+[2025-10-29T10:43:52Z] WARNING [payment-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:52 +0000] "PATCH /users HTTP/1.1" 200 10240 "-" "PostmanRuntime/7.28.4"
+10.0.0.2 - - [29/Oct/2025:10:43:52 +0000] "PATCH /health HTTP/1.1" 404 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:52 +0000] "DELETE /search HTTP/1.1" 400 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-6042","duration":495,"message":"User logged in successfully","request_id":"req-1761734632-6863","service":"notification-service"}
+[2025-10-29T10:43:52Z] WARNING [payment-service] User logged in successfully
+[2025-10-29T10:43:52Z] WARNING [user-service] User logged in successfully
+[2025-10-29T10:43:52Z] INFO [user-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:52 +0000] "PATCH /products HTTP/1.1" 301 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:52 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-9864","duration":61,"message":"User logged in successfully","request_id":"req-1761734632-3914","service":"notification-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:52 +0000] "POST /orders HTTP/2.0" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-1180","duration":347,"message":"User logged in successfully","request_id":"req-1761734632-6002","service":"user-service"}
+2025/10/29 10:43:52 [debug] worker1: User logged in successfully
+2025/10/29 10:43:52 [warn] background: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:52 +0000] "PUT /api/v1 HTTP/1.1" 200 20480 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-4409","duration":212,"message":"User logged in successfully","request_id":"req-1761734632-8949","service":"user-service"}
+2025/10/29 10:43:52 [info] scheduler: User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:52 +0000] "GET /health HTTP/1.1" 304 4096 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-7130","duration":15,"message":"User logged in successfully","request_id":"req-1761734632-2428","service":"user-service"}
+2025/10/29 10:43:52 [info] scheduler: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:52 +0000] "POST /api/v1 HTTP/1.1" 200 15360 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:52 [info] main: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:52 +0000] "GET /api/v1 HTTP/1.1" 500 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:52Z] INFO [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-3048","duration":241,"message":"User logged in successfully","request_id":"req-1761734632-7622","service":"notification-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:52 +0000] "GET /health HTTP/2.0" 403 4096 "-" "PostmanRuntime/7.28.4"
+203.0.113.45 - - [29/Oct/2025:10:43:52 +0000] "DELETE /users HTTP/2.0" 404 4096 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:52 [warn] background: User logged in successfully
+[2025-10-29T10:43:52Z] WARNING [inventory-service] User logged in successfully
+2025/10/29 10:43:52 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-1729","duration":378,"message":"User logged in successfully","request_id":"req-1761734632-2665","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-5113","duration":202,"message":"User logged in successfully","request_id":"req-1761734632-6293","service":"notification-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:52 +0000] "GET /search HTTP/2.0" 204 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"WARNING","user_id":"user-4794","duration":405,"message":"User logged in successfully","request_id":"req-1761734632-3525","service":"inventory-service"}
+[2025-10-29T10:43:52Z] WARNING [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"ERROR","user_id":"user-5514","duration":9,"message":"User logged in successfully","request_id":"req-1761734632-2398","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"DEBUG","user_id":"user-2003","duration":172,"message":"User logged in successfully","request_id":"req-1761734632-9435","service":"user-service"}
+2025/10/29 10:43:52 [info] worker2: User logged in successfully
+2025/10/29 10:43:52 [info] worker1: User logged in successfully
+[2025-10-29T10:43:52Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:52 [info] worker1: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:52 +0000] "PATCH /users HTTP/2.0" 503 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-2193","duration":106,"message":"User logged in successfully","request_id":"req-1761734632-5324","service":"inventory-service"}
+2025/10/29 10:43:52 [info] background: User logged in successfully
+2025/10/29 10:43:52 [info] background: User browsing product catalog
+198.51.100.23 - - [29/Oct/2025:10:43:52 +0000] "PUT /api/v1 HTTP/2.0" 204 8192 "-" "curl/7.68.0"
+2025/10/29 10:43:53 [warn] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"DEBUG","user_id":"user-1692","duration":86,"message":"User browsing product catalog","request_id":"req-1761734633-2484","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"WARNING","user_id":"user-4879","duration":130,"message":"User logged in successfully","request_id":"req-1761734633-5659","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-6597","duration":341,"message":"User logged in successfully","request_id":"req-1761734633-3653","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-9117","duration":142,"message":"User logged in successfully","request_id":"req-1761734633-8263","service":"payment-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:53 +0000] "POST /products HTTP/1.1" 200 2048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:53Z] INFO [user-service] User logged in successfully
+[2025-10-29T10:43:53Z] WARNING [payment-service] User logged in successfully
+2025/10/29 10:43:53 [debug] worker1: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:53 +0000] "POST /search HTTP/2.0" 500 500 "-" "PostmanRuntime/7.28.4"
+198.51.100.23 - - [29/Oct/2025:10:43:53 +0000] "PATCH /dashboard HTTP/1.1" 301 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"WARNING","user_id":"user-7642","duration":496,"message":"User logged in successfully","request_id":"req-1761734633-1326","service":"inventory-service"}
+[2025-10-29T10:43:53Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:53 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"ERROR","user_id":"user-2358","duration":63,"message":"User logged in successfully","request_id":"req-1761734633-3978","service":"user-service"}
+[2025-10-29T10:43:53Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-4548","duration":331,"message":"User logged in successfully","request_id":"req-1761734633-1510","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-2064","duration":111,"message":"User logged in successfully","request_id":"req-1761734633-4844","service":"user-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:53 +0000] "GET /settings HTTP/1.1" 201 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"WARNING","user_id":"user-3155","duration":452,"message":"User logged in successfully","request_id":"req-1761734633-4018","service":"payment-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:53 +0000] "PUT /search HTTP/2.0" 403 2048 "-" "curl/7.68.0"
+2025/10/29 10:43:53 [warn] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-2480","duration":274,"message":"User logged in successfully","request_id":"req-1761734633-8299","service":"notification-service"}
+[2025-10-29T10:43:53Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"DEBUG","user_id":"user-4707","duration":26,"message":"User logged in successfully","request_id":"req-1761734633-2901","service":"payment-service"}
+2025/10/29 10:43:53 [info] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-5738","duration":374,"message":"User logged in successfully","request_id":"req-1761734633-7301","service":"notification-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:53 +0000] "DELETE /settings HTTP/1.1" 400 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:53 [warn] worker2: User logged in successfully
+[2025-10-29T10:43:53Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"DEBUG","user_id":"user-1634","duration":251,"message":"User logged in successfully","request_id":"req-1761734633-5588","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"ERROR","user_id":"user-1633","duration":263,"message":"User logged in successfully","request_id":"req-1761734633-9757","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-9294","duration":495,"message":"User logged in successfully","request_id":"req-1761734633-5489","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-3528","duration":178,"message":"User logged in successfully","request_id":"req-1761734633-5273","service":"inventory-service"}
+2025/10/29 10:43:53 [info] worker2: User logged in successfully
+[2025-10-29T10:43:53Z] WARNING [inventory-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:53 +0000] "DELETE /orders HTTP/1.1" 500 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:53 [info] main: User logged in successfully
+[2025-10-29T10:43:53Z] WARNING [payment-service] User logged in successfully
+2025/10/29 10:43:53 [error] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-5438","duration":203,"message":"User logged in successfully","request_id":"req-1761734633-3477","service":"inventory-service"}
+[2025-10-29T10:43:53Z] WARNING [user-service] User logged in successfully
+[2025-10-29T10:43:53Z] INFO [inventory-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:53 +0000] "POST /orders HTTP/1.1" 500 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:53 +0000] "PUT /dashboard HTTP/2.0" 204 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:53Z","log_type":"INFO","user_id":"user-6875","duration":113,"message":"User logged in successfully","request_id":"req-1761734633-9580","service":"inventory-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:53 +0000] "PATCH /orders HTTP/2.0" 500 20480 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:53 [error] main: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:53 +0000] "PATCH /settings HTTP/2.0" 200 1024 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:54 [info] worker1: User browsing product catalog
+[2025-10-29T10:43:54Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:54 [info] worker1: User logged in successfully
+2025/10/29 10:43:54 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"DEBUG","user_id":"user-6938","duration":73,"message":"User logged in successfully","request_id":"req-1761734634-8839","service":"notification-service"}
+2025/10/29 10:43:54 [info] main: User browsing product catalog
+[2025-10-29T10:43:54Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:54 [info] background: User logged in successfully
+[2025-10-29T10:43:54Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:54 [info] background: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:54 +0000] "PATCH /search HTTP/1.1" 200 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:54 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:54Z] ERROR [notification-service] User logged in successfully
+2025/10/29 10:43:54 [info] background: User logged in successfully
+2025/10/29 10:43:54 [warn] background: User logged in successfully
+[2025-10-29T10:43:54Z] WARNING [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"INFO","user_id":"user-2403","duration":291,"message":"User logged in successfully","request_id":"req-1761734634-1798","service":"user-service"}
+2025/10/29 10:43:54 [info] worker3: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:54 +0000] "PATCH /search HTTP/2.0" 200 4096 "-" "curl/7.68.0"
+[2025-10-29T10:43:54Z] INFO [user-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:54 +0000] "GET /settings HTTP/1.1" 500 8192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:54Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:54Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"INFO","user_id":"user-4840","duration":312,"message":"User logged in successfully","request_id":"req-1761734634-2511","service":"payment-service"}
+[2025-10-29T10:43:54Z] ERROR [notification-service] User logged in successfully
+[2025-10-29T10:43:54Z] INFO [user-service] User logged in successfully
+[2025-10-29T10:43:54Z] ERROR [payment-service] User browsing product catalog
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"INFO","user_id":"user-6837","duration":438,"message":"User logged in successfully","request_id":"req-1761734634-7988","service":"payment-service"}
+[2025-10-29T10:43:54Z] INFO [payment-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:54 +0000] "POST /auth HTTP/2.0" 500 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"INFO","user_id":"user-4762","duration":252,"message":"User logged in successfully","request_id":"req-1761734634-8453","service":"inventory-service"}
+2025/10/29 10:43:54 [debug] main: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:54 +0000] "POST /dashboard HTTP/1.1" 200 10240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:54 [info] background: User logged in successfully
+2025/10/29 10:43:54 [info] background: User logged in successfully
+[2025-10-29T10:43:54Z] INFO [payment-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:54 +0000] "POST /health HTTP/2.0" 304 15360 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:54Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"ERROR","user_id":"user-2398","duration":422,"message":"User logged in successfully","request_id":"req-1761734634-8379","service":"inventory-service"}
+[2025-10-29T10:43:54Z] INFO [user-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:54 +0000] "DELETE /api/v1 HTTP/2.0" 201 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:54 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:54Z","log_type":"INFO","user_id":"user-2455","duration":471,"message":"User logged in successfully","request_id":"req-1761734634-3664","service":"inventory-service"}
+2025/10/29 10:43:54 [info] worker2: User logged in successfully
+2025/10/29 10:43:54 [info] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"ERROR","user_id":"user-8136","duration":469,"message":"User logged in successfully","request_id":"req-1761734635-6193","service":"inventory-service"}
+[2025-10-29T10:43:55Z] INFO [user-service] User browsing product catalog
+[2025-10-29T10:43:55Z] WARNING [user-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:55 +0000] "GET /users HTTP/2.0" 503 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-5898","duration":398,"message":"User browsing product catalog","request_id":"req-1761734635-2410","service":"inventory-service"}
+2025/10/29 10:43:55 [error] worker1: User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:55 +0000] "DELETE /health HTTP/2.0" 304 20480 "-" "curl/7.68.0"
+8.8.8.8 - - [29/Oct/2025:10:43:55 +0000] "PUT /products HTTP/1.1" 403 2048 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:55 [info] worker2: User logged in successfully
+2025/10/29 10:43:55 [info] worker2: User logged in successfully
+2025/10/29 10:43:55 [warn] scheduler: User logged in successfully
+2025/10/29 10:43:55 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-8114","duration":216,"message":"User logged in successfully","request_id":"req-1761734635-8948","service":"inventory-service"}
+2025/10/29 10:43:55 [info] worker3: User logged in successfully
+[2025-10-29T10:43:55Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:55Z] WARNING [user-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:55 +0000] "DELETE /dashboard HTTP/2.0" 200 4096 "-" "curl/7.68.0"
+[2025-10-29T10:43:55Z] WARNING [inventory-service] User logged in successfully
+2025/10/29 10:43:55 [warn] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-2476","duration":18,"message":"User logged in successfully","request_id":"req-1761734635-7595","service":"payment-service"}
+[2025-10-29T10:43:55Z] INFO [inventory-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:55 +0000] "POST /api/v1 HTTP/2.0" 304 250 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:55 +0000] "DELETE /orders HTTP/1.1" 401 1024 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:55 +0000] "DELETE /auth HTTP/2.0" 401 15360 "-" "curl/7.68.0"
+8.8.8.8 - - [29/Oct/2025:10:43:55 +0000] "DELETE /users HTTP/2.0" 204 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-2937","duration":167,"message":"User logged in successfully","request_id":"req-1761734635-9060","service":"user-service"}
+2025/10/29 10:43:55 [info] worker1: User browsing product catalog
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-4042","duration":455,"message":"User browsing product catalog","request_id":"req-1761734635-4964","service":"notification-service"}
+[2025-10-29T10:43:55Z] DEBUG [user-service] User logged in successfully
+2025/10/29 10:43:55 [warn] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"DEBUG","user_id":"user-6748","duration":46,"message":"User logged in successfully","request_id":"req-1761734635-5389","service":"user-service"}
+2025/10/29 10:43:55 [error] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"ERROR","user_id":"user-3076","duration":426,"message":"User logged in successfully","request_id":"req-1761734635-1807","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-2233","duration":239,"message":"User logged in successfully","request_id":"req-1761734635-8867","service":"payment-service"}
+[2025-10-29T10:43:55Z] INFO [payment-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:55 +0000] "DELETE /dashboard HTTP/2.0" 200 100 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:55Z] WARNING [inventory-service] User logged in successfully
+2025/10/29 10:43:55 [info] worker3: User logged in successfully
+[2025-10-29T10:43:55Z] WARNING [inventory-service] User logged in successfully
+[2025-10-29T10:43:55Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:55Z] WARNING [notification-service] User logged in successfully
+2025/10/29 10:43:55 [info] main: User logged in successfully
+2025/10/29 10:43:55 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:55Z] INFO [inventory-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:55 +0000] "DELETE /orders HTTP/1.1" 503 8192 "-" "curl/7.68.0"
+8.8.8.8 - - [29/Oct/2025:10:43:55 +0000] "GET /settings HTTP/1.1" 304 2048 "-" "curl/7.68.0"
+[2025-10-29T10:43:55Z] INFO [payment-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:55 +0000] "PUT /orders HTTP/1.1" 304 500 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:55Z","log_type":"INFO","user_id":"user-9198","duration":144,"message":"User logged in successfully","request_id":"req-1761734635-7703","service":"notification-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:56 +0000] "PATCH /health HTTP/1.1" 301 15360 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-3749","duration":178,"message":"User logged in successfully","request_id":"req-1761734636-5421","service":"user-service"}
+2025/10/29 10:43:56 [info] worker2: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:56 +0000] "PUT /dashboard HTTP/2.0" 200 2048 "-" "PostmanRuntime/7.28.4"
+2025/10/29 10:43:56 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-5072","duration":193,"message":"User logged in successfully","request_id":"req-1761734636-9543","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"DEBUG","user_id":"user-9695","duration":415,"message":"User logged in successfully","request_id":"req-1761734636-4483","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-5124","duration":156,"message":"User logged in successfully","request_id":"req-1761734636-9092","service":"payment-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:56 +0000] "GET /health HTTP/1.1" 400 15360 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:56Z] INFO [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-9410","duration":496,"message":"User logged in successfully","request_id":"req-1761734636-2373","service":"notification-service"}
+[2025-10-29T10:43:56Z] WARNING [payment-service] User logged in successfully
+2025/10/29 10:43:56 [info] worker2: User logged in successfully
+2025/10/29 10:43:56 [info] worker2: User logged in successfully
+[2025-10-29T10:43:56Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-7712","duration":498,"message":"User logged in successfully","request_id":"req-1761734636-7730","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-8592","duration":250,"message":"User logged in successfully","request_id":"req-1761734636-2313","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-9093","duration":443,"message":"User logged in successfully","request_id":"req-1761734636-3435","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-6929","duration":366,"message":"User logged in successfully","request_id":"req-1761734636-4373","service":"notification-service"}
+2025/10/29 10:43:56 [warn] worker3: User logged in successfully
+2025/10/29 10:43:56 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:56Z] WARNING [user-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:56 +0000] "DELETE /orders HTTP/2.0" 401 100 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-4430","duration":368,"message":"User browsing product catalog","request_id":"req-1761734636-5856","service":"notification-service"}
+2025/10/29 10:43:56 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"WARNING","user_id":"user-9860","duration":383,"message":"User logged in successfully","request_id":"req-1761734636-2675","service":"user-service"}
+2025/10/29 10:43:56 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-3537","duration":306,"message":"User logged in successfully","request_id":"req-1761734636-4464","service":"notification-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:56 +0000] "PUT /dashboard HTTP/1.1" 403 8192 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-7374","duration":84,"message":"User logged in successfully","request_id":"req-1761734636-3237","service":"user-service"}
+2025/10/29 10:43:56 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-4802","duration":462,"message":"User logged in successfully","request_id":"req-1761734636-7331","service":"inventory-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:56 +0000] "DELETE /products HTTP/2.0" 503 8192 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:56 +0000] "GET /users HTTP/1.1" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-9061","duration":123,"message":"User logged in successfully","request_id":"req-1761734636-6074","service":"user-service"}
+2025/10/29 10:43:56 [info] main: User logged in successfully
+2025/10/29 10:43:56 [info] worker1: User logged in successfully
+2025/10/29 10:43:56 [warn] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"INFO","user_id":"user-3464","duration":137,"message":"User logged in successfully","request_id":"req-1761734636-7268","service":"inventory-service"}
+2025/10/29 10:43:56 [info] main: User logged in successfully
+[2025-10-29T10:43:56Z] INFO [payment-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:56 +0000] "POST /auth HTTP/1.1" 503 1024 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:56Z","log_type":"WARNING","user_id":"user-3619","duration":143,"message":"User logged in successfully","request_id":"req-1761734636-4759","service":"user-service"}
+[2025-10-29T10:43:56Z] ERROR [user-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:56 +0000] "DELETE /products HTTP/2.0" 204 20480 "-" "curl/7.68.0"
+2025/10/29 10:43:56 [warn] worker3: User logged in successfully
+[2025-10-29T10:43:56Z] WARNING [payment-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:56 +0000] "DELETE /api/v1 HTTP/2.0" 200 100 "-" "curl/7.68.0"
+2025/10/29 10:43:56 [info] worker2: User logged in successfully
+[2025-10-29T10:43:57Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:57Z] INFO [notification-service] User logged in successfully
+[2025-10-29T10:43:57Z] INFO [user-service] User logged in successfully
+[2025-10-29T10:43:57Z] WARNING [notification-service] User logged in successfully
+[2025-10-29T10:43:57Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:57Z] INFO [notification-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:57 +0000] "DELETE /search HTTP/1.1" 500 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:57Z] INFO [payment-service] User browsing product catalog
+[2025-10-29T10:43:57Z] INFO [inventory-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:57 +0000] "PUT /settings HTTP/2.0" 403 1024 "-" "PostmanRuntime/7.28.4"
+172.16.254.1 - - [29/Oct/2025:10:43:57 +0000] "POST /orders HTTP/2.0" 503 4096 "-" "curl/7.68.0"
+[2025-10-29T10:43:57Z] INFO [user-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:57 +0000] "DELETE /products HTTP/2.0" 403 250 "-" "curl/7.68.0"
+203.0.113.45 - - [29/Oct/2025:10:43:57 +0000] "PUT /health HTTP/2.0" 503 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:57Z] WARNING [payment-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:57 +0000] "POST /orders HTTP/1.1" 401 8192 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:57 +0000] "PATCH /products HTTP/1.1" 500 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:57Z","log_type":"WARNING","user_id":"user-3915","duration":409,"message":"User logged in successfully","request_id":"req-1761734637-3172","service":"payment-service"}
+2025/10/29 10:43:57 [info] main: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:57 +0000] "PATCH /dashboard HTTP/2.0" 502 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:57Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:57 [info] main: User browsing product catalog
+[2025-10-29T10:43:57Z] ERROR [notification-service] User logged in successfully
+[2025-10-29T10:43:57Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:57 [info] worker3: User logged in successfully
+2025/10/29 10:43:57 [warn] background: User logged in successfully
+[2025-10-29T10:43:57Z] INFO [notification-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:57 +0000] "POST /dashboard HTTP/2.0" 301 250 "-" "curl/7.68.0"
+[2025-10-29T10:43:57Z] INFO [payment-service] User logged in successfully
+2025/10/29 10:43:57 [info] background: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /search HTTP/1.1" 200 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-4042","duration":282,"message":"User logged in successfully","request_id":"req-1761734623-4046","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"WARNING","user_id":"user-7896","duration":129,"message":"User logged in successfully","request_id":"req-1761734623-4813","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-5001","duration":154,"message":"User logged in successfully","request_id":"req-1761734623-6886","service":"notification-service"}
+2025/10/29 10:43:43 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:43Z] DEBUG [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-7455","duration":367,"message":"User logged in successfully","request_id":"req-1761734623-1558","service":"notification-service"}
+2025/10/29 10:43:43 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-7217","duration":86,"message":"User logged in successfully","request_id":"req-1761734623-5694","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:43 +0000] "PATCH /api/v1 HTTP/1.1" 304 15360 "-" "curl/7.68.0"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "PATCH /settings HTTP/1.1" 403 500 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9528","duration":156,"message":"User logged in successfully","request_id":"req-1761734623-8699","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"DEBUG","user_id":"user-1122","duration":47,"message":"User logged in successfully","request_id":"req-1761734623-9287","service":"user-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "PUT /health HTTP/2.0" 403 4096 "-" "curl/7.68.0"
+1.1.1.1 - - [29/Oct/2025:10:43:43 +0000] "POST /search HTTP/1.1" 200 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "GET /users HTTP/1.1" 404 20480 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9852","duration":242,"message":"User logged in successfully","request_id":"req-1761734623-5171","service":"notification-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:43 +0000] "GET /health HTTP/1.1" 503 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:43 [info] background: User logged in successfully
+2025/10/29 10:43:43 [info] main: User logged in successfully
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+[2025-10-29T10:43:43Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:43Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:43 [info] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "PATCH /search HTTP/1.1" 200 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:43 +0000] "GET /api/v1 HTTP/2.0" 404 1024 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:43 +0000] "PATCH /auth HTTP/2.0" 200 2048 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-5855","duration":59,"message":"User logged in successfully","request_id":"req-1761734623-3230","service":"payment-service"}
+2025/10/29 10:43:43 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-4238","duration":184,"message":"User logged in successfully","request_id":"req-1761734623-1552","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:43Z","log_type":"INFO","user_id":"user-9486","duration":253,"message":"User logged in successfully","request_id":"req-1761734623-5387","service":"inventory-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /auth HTTP/1.1" 304 1024 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+198.51.100.23 - - [29/Oct/2025:10:43:43 +0000] "POST /health HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:43Z] INFO [notification-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:44 +0000] "PUT /users HTTP/1.1" 400 8192 "-" "curl/7.68.0"
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:44 +0000] "DELETE /auth HTTP/2.0" 200 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"WARNING","user_id":"user-3114","duration":184,"message":"User logged in successfully","request_id":"req-1761734624-3933","service":"notification-service"}
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"ERROR","user_id":"user-4120","duration":22,"message":"User logged in successfully","request_id":"req-1761734624-7438","service":"payment-service"}
+2025/10/29 10:43:44 [info] worker3: User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:44Z] DEBUG [inventory-service] User logged in successfully
+[2025-10-29T10:43:44Z] WARNING [notification-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "PUT /api/v1 HTTP/1.1" 403 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"ERROR","user_id":"user-3868","duration":69,"message":"User logged in successfully","request_id":"req-1761734624-1224","service":"notification-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:44 +0000] "PUT /orders HTTP/1.1" 304 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6559","duration":328,"message":"User logged in successfully","request_id":"req-1761734624-3262","service":"notification-service"}
+[2025-10-29T10:43:44Z] WARNING [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-9935","duration":375,"message":"User logged in successfully","request_id":"req-1761734624-5145","service":"inventory-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "DELETE /orders HTTP/1.1" 503 8192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:44Z] INFO [notification-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /api/v1 HTTP/2.0" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /api/v1 HTTP/1.1" 201 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-1980","duration":493,"message":"User logged in successfully","request_id":"req-1761734624-3348","service":"user-service"}
+2025/10/29 10:43:44 [info] worker1: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "DELETE /users HTTP/1.1" 500 500 "-" "curl/7.68.0"
+2025/10/29 10:43:44 [warn] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"WARNING","user_id":"user-5937","duration":216,"message":"User logged in successfully","request_id":"req-1761734624-5144","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-3562","duration":312,"message":"User logged in successfully","request_id":"req-1761734624-3312","service":"payment-service"}
+198.51.100.23 - - [29/Oct/2025:10:43:44 +0000] "GET /dashboard HTTP/2.0" 500 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6814","duration":10,"message":"User logged in successfully","request_id":"req-1761734624-7198","service":"user-service"}
+2025/10/29 10:43:44 [info] worker3: User logged in successfully
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "POST /dashboard HTTP/2.0" 403 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:44 [info] worker1: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:44Z] INFO [payment-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:44 +0000] "PUT /search HTTP/2.0" 200 15360 "-" "curl/7.68.0"
+[2025-10-29T10:43:44Z] ERROR [user-service] User logged in successfully
+2025/10/29 10:43:44 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:44Z","log_type":"INFO","user_id":"user-6922","duration":188,"message":"User logged in successfully","request_id":"req-1761734624-9425","service":"notification-service"}
+[2025-10-29T10:43:44Z] INFO [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:44 +0000] "GET /auth HTTP/1.1" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:44 +0000] "GET /health HTTP/2.0" 403 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:44 [info] worker2: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "GET /settings HTTP/2.0" 204 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-8121","duration":382,"message":"User logged in successfully","request_id":"req-1761734625-5340","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"WARNING","user_id":"user-8270","duration":23,"message":"User logged in successfully","request_id":"req-1761734625-8114","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-2253","duration":350,"message":"User logged in successfully","request_id":"req-1761734625-6293","service":"payment-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /orders HTTP/2.0" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-9760","duration":350,"message":"User logged in successfully","request_id":"req-1761734625-4112","service":"notification-service"}
+2025/10/29 10:43:45 [info] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/2.0" 200 10240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:45 [error] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-6097","duration":421,"message":"User logged in successfully","request_id":"req-1761734625-1170","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-4876","duration":68,"message":"User logged in successfully","request_id":"req-1761734625-3222","service":"inventory-service"}
+[2025-10-29T10:43:45Z] WARNING [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /dashboard HTTP/1.1" 204 20480 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+172.16.254.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /users HTTP/2.0" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "PATCH /orders HTTP/1.1" 404 1024 "-" "curl/7.68.0"
+2025/10/29 10:43:45 [info] worker2: User logged in successfully
+[2025-10-29T10:43:45Z] INFO [notification-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "PATCH /health HTTP/1.1" 503 500 "-" "PostmanRuntime/7.28.4"
+10.0.0.2 - - [29/Oct/2025:10:43:45 +0000] "PATCH /dashboard HTTP/1.1" 404 250 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "DELETE /dashboard HTTP/1.1" 201 4096 "-" "curl/7.68.0"
+2025/10/29 10:43:45 [warn] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-3850","duration":412,"message":"User logged in successfully","request_id":"req-1761734625-5722","service":"notification-service"}
+[2025-10-29T10:43:45Z] INFO [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PUT /products HTTP/2.0" 503 20480 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"ERROR","user_id":"user-5053","duration":230,"message":"User logged in successfully","request_id":"req-1761734625-8715","service":"inventory-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-8147","duration":261,"message":"User logged in successfully","request_id":"req-1761734625-5818","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-3819","duration":471,"message":"User logged in successfully","request_id":"req-1761734625-6026","service":"user-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:45 +0000] "POST /api/v1 HTTP/2.0" 204 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+8.8.8.8 - - [29/Oct/2025:10:43:45 +0000] "DELETE /products HTTP/2.0" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:45 [info] main: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "GET /auth HTTP/1.1" 304 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:45 [info] worker3: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "DELETE /search HTTP/1.1" 200 10240 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-5971","duration":479,"message":"User logged in successfully","request_id":"req-1761734625-5980","service":"user-service"}
+[2025-10-29T10:43:45Z] INFO [user-service] User logged in successfully
+2025/10/29 10:43:45 [warn] main: User logged in successfully
+2025/10/29 10:43:45 [info] background: User logged in successfully
+2025/10/29 10:43:45 [info] worker1: User logged in successfully
+[2025-10-29T10:43:45Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:45Z] INFO [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 502 15360 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:45 +0000] "GET /api/v1 HTTP/2.0" 401 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:45 +0000] "GET /dashboard HTTP/1.1" 304 1024 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:45Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"DEBUG","user_id":"user-2341","duration":341,"message":"User logged in successfully","request_id":"req-1761734625-4876","service":"inventory-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:45 +0000] "PATCH /settings HTTP/1.1" 304 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+172.16.254.1 - - [29/Oct/2025:10:43:45 +0000] "GET /products HTTP/1.1" 404 10240 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:45Z","log_type":"INFO","user_id":"user-6390","duration":490,"message":"User logged in successfully","request_id":"req-1761734625-7761","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PATCH /users HTTP/2.0" 204 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:46 [info] background: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:46 +0000] "PATCH /orders HTTP/1.1" 404 10240 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:46 +0000] "PUT /search HTTP/1.1" 502 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:46 +0000] "DELETE /search HTTP/2.0" 400 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+8.8.8.8 - - [29/Oct/2025:10:43:46 +0000] "POST /dashboard HTTP/1.1" 500 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "POST /dashboard HTTP/2.0" 301 20480 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"INFO","user_id":"user-3420","duration":144,"message":"User logged in successfully","request_id":"req-1761734626-5849","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PATCH /auth HTTP/2.0" 503 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "PUT /products HTTP/1.1" 201 20480 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:46Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"WARNING","user_id":"user-3610","duration":319,"message":"User logged in successfully","request_id":"req-1761734626-5878","service":"inventory-service"}
+2025/10/29 10:43:46 [info] worker3: User logged in successfully
+2025/10/29 10:43:46 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:46Z] INFO [notification-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:46 +0000] "GET /auth HTTP/2.0" 301 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:46Z] INFO [user-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:46 +0000] "PATCH /auth HTTP/1.1" 201 4096 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"INFO","user_id":"user-5107","duration":271,"message":"User logged in successfully","request_id":"req-1761734626-2907","service":"user-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:46 +0000] "PATCH /products HTTP/1.1" 404 2048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:46 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:46Z","log_type":"DEBUG","user_id":"user-2515","duration":338,"message":"User logged in successfully","request_id":"req-1761734626-7127","service":"inventory-service"}
+2025/10/29 10:43:47 [info] main: User logged in successfully
+2025/10/29 10:43:47 [info] main: User logged in successfully
+[2025-10-29T10:43:47Z] INFO [notification-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "POST /search HTTP/1.1" 502 8192 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:47Z] ERROR [payment-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "DELETE /auth HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:47 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-4268","duration":421,"message":"User logged in successfully","request_id":"req-1761734627-7807","service":"user-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:47 +0000] "PUT /orders HTTP/2.0" 403 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.45 - - [29/Oct/2025:10:43:47 +0000] "PATCH /products HTTP/1.1" 200 1024 "-" "curl/7.68.0"
+2025/10/29 10:43:47 [info] main: User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "PATCH /products HTTP/1.1" 200 250 "-" "PostmanRuntime/7.28.4"
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "PUT /api/v1 HTTP/1.1" 404 2048 "-" "curl/7.68.0"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "GET /auth HTTP/1.1" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-6962","duration":336,"message":"User logged in successfully","request_id":"req-1761734627-6828","service":"user-service"}
+[2025-10-29T10:43:47Z] WARNING [user-service] User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:47 +0000] "PUT /health HTTP/1.1" 304 2048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "GET /orders HTTP/1.1" 200 250 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:47Z] INFO [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-7595","duration":284,"message":"User logged in successfully","request_id":"req-1761734627-2633","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"WARNING","user_id":"user-5342","duration":15,"message":"User logged in successfully","request_id":"req-1761734627-6308","service":"payment-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:47 +0000] "GET /orders HTTP/1.1" 403 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+[2025-10-29T10:43:47Z] INFO [user-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:47 +0000] "DELETE /users HTTP/2.0" 200 8192 "-" "curl/7.68.0"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "POST /users HTTP/2.0" 503 15360 "-" "curl/7.68.0"
+2025/10/29 10:43:47 [warn] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-5710","duration":189,"message":"User logged in successfully","request_id":"req-1761734627-9074","service":"payment-service"}
+2025/10/29 10:43:47 [info] worker3: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:47 +0000] "DELETE /users HTTP/2.0" 404 15360 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-4806","duration":43,"message":"User logged in successfully","request_id":"req-1761734627-7986","service":"notification-service"}
+2025/10/29 10:43:47 [info] main: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "POST /settings HTTP/2.0" 503 100 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-3553","duration":6,"message":"User logged in successfully","request_id":"req-1761734627-8197","service":"payment-service"}
+8.8.8.8 - - [29/Oct/2025:10:43:47 +0000] "POST /users HTTP/2.0" 404 4096 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:47 +0000] "PUT /auth HTTP/1.1" 201 15360 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:47Z","log_type":"INFO","user_id":"user-6333","duration":57,"message":"User logged in successfully","request_id":"req-1761734627-1032","service":"notification-service"}
+[2025-10-29T10:43:47Z] INFO [payment-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:48 +0000] "DELETE /api/v1 HTTP/2.0" 200 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:48Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"ERROR","user_id":"user-8143","duration":145,"message":"User logged in successfully","request_id":"req-1761734628-3145","service":"user-service"}
+[2025-10-29T10:43:48Z] ERROR [payment-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [payment-service] User logged in successfully
+2025/10/29 10:43:48 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-7816","duration":405,"message":"User logged in successfully","request_id":"req-1761734628-2799","service":"user-service"}
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:48Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-2747","duration":85,"message":"User logged in successfully","request_id":"req-1761734628-3605","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"WARNING","user_id":"user-6945","duration":58,"message":"User logged in successfully","request_id":"req-1761734628-7353","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-4272","duration":23,"message":"User logged in successfully","request_id":"req-1761734628-5464","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-5169","duration":10,"message":"User logged in successfully","request_id":"req-1761734628-3808","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"DEBUG","user_id":"user-6252","duration":26,"message":"User logged in successfully","request_id":"req-1761734628-5356","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-2259","duration":64,"message":"User logged in successfully","request_id":"req-1761734628-4753","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [debug] worker2: User logged in successfully
+[2025-10-29T10:43:48Z] ERROR [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-5138","duration":323,"message":"User logged in successfully","request_id":"req-1761734628-4551","service":"user-service"}
+2025/10/29 10:43:48 [warn] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:48 +0000] "GET /users HTTP/1.1" 204 20480 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-6294","duration":272,"message":"User logged in successfully","request_id":"req-1761734628-6003","service":"inventory-service"}
+[2025-10-29T10:43:48Z] WARNING [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [warn] worker2: User logged in successfully
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] main: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:48Z] WARNING [payment-service] User logged in successfully
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"ERROR","user_id":"user-1403","duration":448,"message":"User logged in successfully","request_id":"req-1761734628-8486","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:48Z","log_type":"INFO","user_id":"user-8022","duration":31,"message":"User logged in successfully","request_id":"req-1761734628-3066","service":"inventory-service"}
+2025/10/29 10:43:48 [info] worker2: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:48 +0000] "PUT /products HTTP/1.1" 200 100 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:48 [info] worker3: User logged in successfully
+2025/10/29 10:43:48 [info] worker1: User logged in successfully
+[2025-10-29T10:43:48Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:48 [info] background: User logged in successfully
+2025/10/29 10:43:48 [warn] background: User logged in successfully
+8.8.8.8 - - [29/Oct/2025:10:43:48 +0000] "PUT /health HTTP/2.0" 500 1024 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+[2025-10-29T10:43:49Z] INFO [payment-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:49 +0000] "GET /api/v1 HTTP/1.1" 201 10240 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-5439","duration":268,"message":"User logged in successfully","request_id":"req-1761734629-4697","service":"inventory-service"}
+2025/10/29 10:43:49 [warn] worker2: User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "PUT /users HTTP/1.1" 201 100 "-" "PostmanRuntime/7.28.4"
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "GET /orders HTTP/2.0" 403 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"WARNING","user_id":"user-1372","duration":236,"message":"User logged in successfully","request_id":"req-1761734629-3164","service":"user-service"}
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+2025/10/29 10:43:49 [warn] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-6941","duration":384,"message":"User logged in successfully","request_id":"req-1761734629-2768","service":"payment-service"}
+172.16.254.1 - - [29/Oct/2025:10:43:49 +0000] "POST /products HTTP/2.0" 201 100 "-" "curl/7.68.0"
+198.51.100.23 - - [29/Oct/2025:10:43:49 +0000] "PUT /products HTTP/1.1" 200 15360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-2202","duration":264,"message":"User logged in successfully","request_id":"req-1761734629-2737","service":"payment-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:49 +0000] "DELETE /health HTTP/2.0" 401 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "POST /products HTTP/1.1" 502 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:49 +0000] "PATCH /health HTTP/1.1" 503 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:49 [info] main: User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:49 +0000] "PUT /api/v1 HTTP/2.0" 500 500 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+2025/10/29 10:43:49 [info] background: User logged in successfully
+2025/10/29 10:43:49 [warn] worker1: User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+[2025-10-29T10:43:49Z] DEBUG [inventory-service] User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-8619","duration":373,"message":"User logged in successfully","request_id":"req-1761734629-8488","service":"inventory-service"}
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "PUT /products HTTP/1.1" 403 20480 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] WARNING [inventory-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-5398","duration":99,"message":"User logged in successfully","request_id":"req-1761734629-6164","service":"notification-service"}
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:49 [info] scheduler: User logged in successfully
+2025/10/29 10:43:49 [info] worker3: User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:49 +0000] "POST /users HTTP/1.1" 200 10240 "-" "curl/7.68.0"
+[2025-10-29T10:43:49Z] WARNING [payment-service] User logged in successfully
+[2025-10-29T10:43:49Z] INFO [inventory-service] User logged in successfully
+[2025-10-29T10:43:49Z] INFO [notification-service] User logged in successfully
+[2025-10-29T10:43:49Z] DEBUG [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"INFO","user_id":"user-4099","duration":312,"message":"User logged in successfully","request_id":"req-1761734629-5365","service":"payment-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:49 +0000] "GET /orders HTTP/2.0" 301 15360 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:49Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:49Z","log_type":"WARNING","user_id":"user-2958","duration":456,"message":"User logged in successfully","request_id":"req-1761734629-8489","service":"notification-service"}
+2025/10/29 10:43:49 [info] scheduler: User logged in successfully
+2025/10/29 10:43:49 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-1813","duration":440,"message":"User logged in successfully","request_id":"req-1761734630-8081","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:50 +0000] "PUT /settings HTTP/1.1" 301 20480 "-" "PostmanRuntime/7.28.4"
+172.16.254.1 - - [29/Oct/2025:10:43:50 +0000] "GET /orders HTTP/2.0" 403 4096 "-" "PostmanRuntime/7.28.4"
+[2025-10-29T10:43:50Z] INFO [payment-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-2919","duration":259,"message":"User logged in successfully","request_id":"req-1761734630-5087","service":"payment-service"}
+2025/10/29 10:43:50 [warn] scheduler: User logged in successfully
+2025/10/29 10:43:50 [info] worker3: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-5193","duration":367,"message":"User logged in successfully","request_id":"req-1761734630-8768","service":"user-service"}
+2025/10/29 10:43:50 [warn] main: User logged in successfully
+2025/10/29 10:43:50 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"WARNING","user_id":"user-9279","duration":246,"message":"User logged in successfully","request_id":"req-1761734630-6727","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-5257","duration":379,"message":"User logged in successfully","request_id":"req-1761734630-9814","service":"user-service"}
+2025/10/29 10:43:50 [info] main: User logged in successfully
+[2025-10-29T10:43:50Z] INFO [payment-service] User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:50 +0000] "PATCH /users HTTP/1.1" 301 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.168.1.1 - - [29/Oct/2025:10:43:50 +0000] "GET /health HTTP/2.0" 200 500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+2025/10/29 10:43:50 [debug] main: User logged in successfully
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-2974","duration":362,"message":"User logged in successfully","request_id":"req-1761734630-4931","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:50Z","log_type":"INFO","user_id":"user-3545","duration":47,"message":"User logged in successfully","request_id":"req-1761734630-6217","service":"inventory-service"}
+2025/10/29 10:43:50 [info] background: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:50 +0000] "POST /search HTTP/2.0" 200 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+[2025-10-29T10:43:50Z] INFO [user-service] User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:51 +0000] "GET /users HTTP/1.1" 200 8192 "-" "curl/7.68.0"
+[2025-10-29T10:43:51Z] WARNING [inventory-service] User logged in successfully
+192.168.1.1 - - [29/Oct/2025:10:43:51 +0000] "DELETE /api/v1 HTTP/2.0" 304 4096 "-" "curl/7.68.0"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] WARNING [user-service] User logged in successfully
+2025/10/29 10:43:51 [info] background: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-4761","duration":63,"message":"User logged in successfully","request_id":"req-1761734631-5604","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6385","duration":435,"message":"User logged in successfully","request_id":"req-1761734631-3046","service":"user-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-1442","duration":165,"message":"User logged in successfully","request_id":"req-1761734631-8926","service":"inventory-service"}
+1.1.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /auth HTTP/2.0" 400 4096 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6450","duration":361,"message":"User logged in successfully","request_id":"req-1761734631-8106","service":"notification-service"}
+[2025-10-29T10:43:51Z] INFO [payment-service] User logged in successfully
+10.0.0.2 - - [29/Oct/2025:10:43:51 +0000] "POST /dashboard HTTP/2.0" 400 2048 "-" "PostmanRuntime/7.28.4"
+192.168.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /users HTTP/1.1" 200 8192 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-1863","duration":283,"message":"User logged in successfully","request_id":"req-1761734631-2024","service":"notification-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-9366","duration":173,"message":"User logged in successfully","request_id":"req-1761734631-6546","service":"inventory-service"}
+2025/10/29 10:43:51 [warn] background: User logged in successfully
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] INFO [payment-service] User logged in successfully
+198.51.100.23 - - [29/Oct/2025:10:43:51 +0000] "PATCH /search HTTP/2.0" 200 20480 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+[2025-10-29T10:43:51Z] ERROR [notification-service] User logged in successfully
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+1.1.1.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /settings HTTP/1.1" 200 1024 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-6106","duration":10,"message":"User logged in successfully","request_id":"req-1761734631-5050","service":"inventory-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+2025/10/29 10:43:51 [error] worker1: User logged in successfully
+[2025-10-29T10:43:51Z] WARNING [notification-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-8249","duration":226,"message":"User logged in successfully","request_id":"req-1761734631-4354","service":"payment-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+172.16.254.1 - - [29/Oct/2025:10:43:51 +0000] "PUT /api/v1 HTTP/1.1" 400 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-3401","duration":71,"message":"User logged in successfully","request_id":"req-1761734631-4406","service":"payment-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "GET /auth HTTP/2.0" 200 500 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"ERROR","user_id":"user-8475","duration":46,"message":"User logged in successfully","request_id":"req-1761734631-4214","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-9328","duration":278,"message":"User logged in successfully","request_id":"req-1761734631-8127","service":"user-service"}
+2025/10/29 10:43:51 [info] worker2: User logged in successfully
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-3996","duration":24,"message":"User logged in successfully","request_id":"req-1761734631-1920","service":"inventory-service"}
+2025/10/29 10:43:51 [info] scheduler: User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "PATCH /search HTTP/2.0" 502 250 "-" "PostmanRuntime/7.28.4"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-7213","duration":337,"message":"User logged in successfully","request_id":"req-1761734631-2312","service":"notification-service"}
+10.0.0.2 - - [29/Oct/2025:10:43:51 +0000] "PATCH /orders HTTP/2.0" 301 4096 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"INFO","user_id":"user-6232","duration":208,"message":"User logged in successfully","request_id":"req-1761734631-6938","service":"notification-service"}
+203.0.113.45 - - [29/Oct/2025:10:43:51 +0000] "PUT /users HTTP/1.1" 301 2048 "-" "curl/7.68.0"
+{"timestamp":"2025-10-29T10:43:51Z","log_type":"WARNING","user_id":"user-3413","duration":91,"message":"User logged in successfully","request_id":"req-1761734631-5240","service":"notification-service"}
+[2025-10-29T10:43:51Z] INFO [notification-service] User logged in successfully
+2025/10/29 10:43:51 [warn] worker1: User logged in successfully
+2025/10/29 10:43:51 [warn] worker3: User logged in successfully
+[2025-10-29T10:43:51Z] INFO [user-service] User logged in successfully
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-2290","duration":305,"message":"User logged in successfully","request_id":"req-1761734632-9047","service":"payment-service"}
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"WARNING","user_id":"user-6828","duration":63,"message":"User logged in successfully","request_id":"req-1761734632-8130","service":"inventory-service"}
+[2025-10-29T10:43:52Z] WARNING [payment-service] User logged in successfully
+203.0.113.45 - - [29/Oct/2025:10:43:52 +0000] "PATCH /users HTTP/1.1" 200 10240 "-" "PostmanRuntime/7.28.4"
+10.0.0.2 - - [29/Oct/2025:10:43:52 +0000] "PATCH /health HTTP/1.1" 404 4096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+10.0.0.2 - - [29/Oct/2025:10:43:52 +0000] "DELETE /search HTTP/1.1" 400 15360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+{"timestamp":"2025-10-29T10:43:52Z","log_type":"INFO","user_id":"user-6042","duration":495,"message":"User logged in successfully","request_id":"req-1761734632-6863","service":"notification-service"}
