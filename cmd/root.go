@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"fmt"
+	"log"
 	"os"
 	"os/signal"
 	"syscall"
@@ -11,7 +12,7 @@ import (
 )
 
 var (
-	logFile         string
+	logFiles        []string
 	serverHost      string
 	serverPort      int
 	batch           bool
@@ -42,7 +43,7 @@ func Execute() {
 }
 
 func init() {
-	rootCmd.Flags().StringVarP(&logFile, "log-file", "f", "", "Path to the log file to ship (required)")
+	rootCmd.Flags().StringSliceVarP(&logFiles, "log-files", "f", []string{}, "Path to the log files to ship (required)")
 	rootCmd.Flags().StringVarP(&serverHost, "server-host", "H", "localhost", "Host of the TCP log server")
 	rootCmd.Flags().IntVarP(&serverPort, "server-port", "p", 9000, "Port of the TCP log server")
 	rootCmd.Flags().BoolVarP(&batch, "batch", "b", false, "Ship logs in batch mode instead of continuous")
@@ -64,9 +65,13 @@ func runShipper(cmd *cobra.Command, args []string) {
 		os.Exit(1)
 	}
 
+	var logReaders []*reader.LogReader
+	logger := log.New(os.Stdout, "[LogCollector] ", log.LstdFlags)
+
 	//create log reader
-	logReader := reader.NewLogReader(logFile)
+	logReader := reader.NewLogReader(logFiles, logger)
 	defer logReader.Close()
+	logReaders = append(logReaders, logReader)
 
 	stopChan := make(chan struct{})
 	sigChan := make(chan os.Signal, 1)
@@ -82,11 +87,11 @@ func runShipper(cmd *cobra.Command, args []string) {
 
 	switch shipperType {
 	case "basic":
-		err = runBasicShipper(logReader, stopChan)
+		err = runBasicShipper(logReaders, stopChan)
 	case "resilient":
-		err = runResilientShipper(logReader, stopChan)
+		err = runResilientShipper(logReaders, stopChan)
 	case "enhanced":
-		err = runEnhancedShipper(logReader, stopChan)
+		err = runEnhancedShipper(logReaders, stopChan)
 	}
 
 	if err != nil {
